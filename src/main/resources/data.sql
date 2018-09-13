@@ -1,0 +1,2 @@
+INSERT INTO rates VALUES (1, 'A', 20);
+INSERT INTO rates VALUES (2, 'B', 30);
