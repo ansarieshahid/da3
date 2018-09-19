@@ -7,3 +7,42 @@ h1{
 h2{
 	color:#FF0000;
 }
+
+.tdd{
+	width: 12em;
+	height: 12em; 
+}
+
+.ttable{
+	width: 50%;
+    margin: 0 auto !important;
+    background-repeat: no-repeat;
+    background-image: url("https://images.pexels.com/photos/1020317/pexels-photo-1020317.jpeg");
+}
+
+.date-picker-wrapper {
+    z-index: 1200 !important;
+}
+
+
+.box {
+	background-color: #000;
+	color: #fff;
+	border-radius: 0px;
+	padding: 20px;
+	font-size: 150%;
+}
+
+.box:nth-child(even){
+	background-color: #ccc;
+	color: #000;
+}
+
+.wrapper {
+	width: 800px;
+	display: grid;
+   	/* grid-gap: 10px; */
+	grid-template-rows: repeat(6, 100px);
+	grid-template-columns: 100px 100px 100px;
+	grid-auto-flow: row;
+}

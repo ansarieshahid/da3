@@ -21,13 +21,15 @@
 	<nav class="navbar navbar-inverse">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="#">Developer Homework</a>
+				<a class="navbar-brand" href="#">Developer Assignment 3</a>
 			</div>
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li class="active"><a href="/">Home</a></li>
-					<li><a href="payroll">Payroll</a></li>
-					<li><a href="reports">Reports</a></li>
+					<li><a href="/secured/board">Menu Board</a></li>
+					<li><a href="/secured/menu">Menu</a></li>
+					<li><a href="/secured/size">Size</a></li>
+					<li><a href="/logout">Logout</a></li>
 				</ul>
 			</div>
 		</div>
@@ -36,7 +38,7 @@
 	<div class="container">
 
 		<div class="starter-template">
-			<h1>Developer Homework</h1>
+			<h1>Developer Assignment 3</h1>
 			<h2>${message}</h2>
 		</div>
 

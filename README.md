@@ -10,5 +10,4 @@ How to RUN
 Details
 =======
 1. Java Spring Boot App using JSP, JPA Hibernate and H2 Database
-2. Challenging Thing was to write a customized DB Query for Payroll Listing
-3. no external DB Server is required. Use https://localhost:8443/h2 for DB console, use default username 'sa' and blank password for login
+2. no external DB Server is required. Use https://localhost:8443/console for DB console, use default username 'sa' and blank password for login
